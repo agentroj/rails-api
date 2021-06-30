@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  start_date: MyString
+  end_date: MyString
+  nights: 1
+  guests: 1
+  adults: 1
+  children: 1
+  infants: 1
+  status: MyString
+  guest: one
+  currency: MyString
+  payout_price: MyString
+  security_price: MyString
+  total_price: MyString
+
+two:
+  id: 1
+  start_date: MyString
+  end_date: MyString
+  nights: 1
+  guests: 1
+  adults: 1
+  children: 1
+  infants: 1
+  status: MyString
+  guest: two
+  currency: MyString
+  payout_price: MyString
+  security_price: MyString
+  total_price: MyString
